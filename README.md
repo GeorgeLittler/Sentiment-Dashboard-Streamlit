@@ -1,4 +1,4 @@
-# Sentiment Dashboard (Round 1)
+# Sentiment Dashboard
 
 A lightweight Streamlit app that pulls **live news headlines via RSS** (BBC, Reuters, Guardian), runs **VADER sentiment**, and shows a quick **distribution + table**.  
 *Round 1 focuses on a working MVP with no API keys. Round 2 will add time series, model upgrades, and export.*
