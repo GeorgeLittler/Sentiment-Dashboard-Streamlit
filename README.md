@@ -6,7 +6,13 @@ HTTPS feeds, adjustable thresholds, keyword filtering, and CSV export make this 
 
 ---
 
-## Features
+![Sentiment Dashboard Screenshot 1](SentimentDashboardScreenshot1.png)
+![Sentiment Dashboard Screenshot 2](SentimentDashboardScreenshot2.png)
+![Sentiment Dashboard Screenshot 3](SentimentDashboardScreenshot3.png)
+
+---
+
+## ✨ Features
 - **Live ingest via RSS** (BBC/Reuters/Guardian) with caching (5-min TTL) + **Fetch Latest Headlines** button
 - **VADER** sentiment (NLTK) with **tunable thresholds** (negative/positive)
 - **Keyword filter** (case-insensitive)
