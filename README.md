@@ -7,7 +7,13 @@ HTTPS feeds, adjustable thresholds, keyword filtering, and CSV export make this 
 ---
 
 ![Sentiment Dashboard Screenshot 1](SentimentDashboardScreenshot1.png)
+
+---
+
 ![Sentiment Dashboard Screenshot 2](SentimentDashboardScreenshot2.png)
+
+---
+
 ![Sentiment Dashboard Screenshot 3](SentimentDashboardScreenshot3.png)
 
 ---
