@@ -1,6 +1,6 @@
 # Real-Time News Sentiment Dashboard
 
-A lightweight Streamlit app that pulls **live news headlines via RSS** (BBC, Reuters, Guardian), runs **VADER sentiment analysis**, and visualises **distribution, trends over time, and per-source breakdowns** — **no API keys required**.
+A lightweight Streamlit app that pulls **live news headlines via RSS** (BBC, Reuters, Guardian), runs **VADER sentiment analysis**, and visualises **distribution, trends over time, and per-source breakdowns**.
 
 HTTPS feeds, adjustable thresholds, keyword filtering, and CSV export make this a handy real-time monitor of news tone.
 
